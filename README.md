@@ -29,3 +29,6 @@ of national wellbeing.
 - LDA/QDA/Naive Bayes discriminant analysis
 - Multivariate regression with stepwise selection
 - K-means and K-Medoids clustering (K=3)
+
+## Full Report
+- See `Analyzing Global Quality of Life.pdf` for the complete analysis.
